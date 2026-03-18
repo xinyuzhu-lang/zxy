@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "朱欣雨的个人主页",
+    "section": "",
+    "text": "学号：2025303110137\n专业：水土保持与荒漠化防治\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "朱欣雨的个人主页",
+    "section": "",
+    "text": "学号：2025303110137\n专业：水土保持与荒漠化防治\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303110137\n专业：水土保持与荒漠化防治\n学习方向：污染控制\n\n\n\n\n\n主力编辑器：Positron（课程推荐）\nAI辅助插件：Cline（配置Claude/Kimi模型）\n核心工具：Quarto、Git、R Studio（备用）"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303110137\n专业：水土保持与荒漠化防治\n学习方向：污染控制"
+  },
+  {
+    "objectID": "about.html#工具使用",
+    "href": "about.html#工具使用",
+    "title": "关于我",
+    "section": "",
+    "text": "主力编辑器：Positron（课程推荐）\nAI辅助插件：Cline（配置Claude/Kimi模型）\n核心工具：Quarto、Git、R Studio（备用）"
+  }
+]
